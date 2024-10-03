@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Jinnu-Mathew
+# 👋 Hi, I’m Jinnu-Mathew
 
 ## 🌟 About Me
 I'm an AWS Certified Associate Cloud Engineer with extensive experience in **Azure** and a foundational understanding of **Oracle Cloud**. My expertise lies in **cloud infrastructure monitoring**, **network troubleshooting**, and **Linux-level tasks**. I’m passionate about solving operational challenges and ensuring the seamless functioning of cloud environments.
